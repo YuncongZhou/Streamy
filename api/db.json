@@ -1,9 +1,32 @@
 {
   "streams": [
     {
-      "title": "12312",
-      "description": "213123",
+      "title": "Alex Streaming",
+      "description": "This is a channel",
       "id": 1
+    },
+    {
+      "title": "Bruce Streaming",
+      "description": "This is another streaming channel",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "Created by me",
+      "userId": "104148849433609371108",
+      "id": 3
+    },
+    {
+      "title": "Template stream",
+      "description": "Test submit button",
+      "userId": "104148849433609371108",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "It comes with programmatic redirect",
+      "userId": "104148849433609371108",
+      "id": 5
     }
   ]
 }
