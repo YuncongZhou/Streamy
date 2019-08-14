@@ -2,17 +2,17 @@
   "streams": [
     {
       "title": "Alex Streaming",
-      "description": "This is a channel",
+      "description": "This is a streaming channel for coding",
       "id": 1
     },
     {
       "title": "Bruce Streaming",
-      "description": "This is another streaming channel",
+      "description": "This is a gaming channel",
       "id": 2
     },
     {
-      "title": "Template stream",
-      "description": "Test submit button",
+      "title": "Cindy streaming",
+      "description": "This is a testing channel",
       "userId": "104148849433609371108",
       "id": 4
     }
